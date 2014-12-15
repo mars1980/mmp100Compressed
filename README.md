@@ -37,7 +37,6 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 2. Each Student will create a short animation that they are able to embed into a website
 3. Each Student will have a 4 page website on a topic of their choice
 
----
 ##Course Expections + Grading Rhubric
 <p>follow these steps, and we will all be OK</p>
 1. Students are expected to come to class on time. Tardiness will not be tolerated. Important information regarding homework, quiz dates, etc. will be given out at the beginning of class and may not be repeated. 
