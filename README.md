@@ -11,4 +11,6 @@ Prerequisites / Co-requisites: none</p>
 **required textbook**<br>
 <p>HTML&CSS Design and Build Websites by Jon Duckett published by John Wiley & Sons Inc. (ISBN-13: 978-1-118-00818-8)</p>
 
+**Media Storage:**<br>
+<p>Students are expected to work on assignments in class as well as outside class hours. Students are required to keep a flash drive containing all projects and are expected to bring the drive to every class.</p>
 
