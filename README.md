@@ -3,9 +3,11 @@
 ## Course Description
 <p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications. <br>
 The class will be structured as follows: <br>
-+9am - 10:40am (lecture/announcements/demo)
-+10:40am-11am (break)
-+11am-12:40pm (class workshop / in class assignments)
+<ul>
+<li>9am - 10:40am (lecture/announcements/demo)</li>
+<li>+10:40am-11am (break)</li>
+<li>+11am-12:40pm (class workshop / in class assignments)</li>
+</ul>
 <br><br>
 <em>Credits</em>: 3 <br>
 <em>Basic Skills:</em> ENG 088 or ESL 062, ACR 094, MAT 011; <br>
