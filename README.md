@@ -1,4 +1,5 @@
 # MMP 100 - Winter 2015
+####Introduction to Multi Media Production - Borough of Manhattan Community College
 ---
 ## Course Description
 <p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications. <br>
