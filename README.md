@@ -3,7 +3,7 @@
 ## Course Description
 <p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications.
 <br><br>
-_Credits_: 3 <br>
+<em>Credits</em>: 3 <br>
 _Basic Skills:_ ENG 088 or ESL 062, ACR 094, MAT 011; <br>
 _Prerequisites / Co-requisites:_ none
 <br>
