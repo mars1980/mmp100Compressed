@@ -66,7 +66,12 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 ###Week 1 
 #####(Fri Jan 4th - Fri Jan 9th)
 ######Readings for the Week:
-* Chapters 1 & 2 of HTML & CSS: Design and Build Websites, [Shadow Syllabus](http://sonyahuber.com/2014/08/20/shadow-syllabus/), [Internet Handout](https://docs.google.com/presentation/d/1FeuwEMzNTvKcjIS7q8S2u46Kz7hVRSf5srWtYwg4Tb4/pub?start=false&loop=false&delayms=3000&slide=id.p), [Basic HTML tutorial](http://www.w3schools.com/html/html_intro.asp)[How to use make HTML with an editor](http://www.w3schools.com/html/html_editors.asp)
+*Chapters 1 & 2 of HTML & CSS: Design and Build Websites,
+*[Shadow Syllabus](http://sonyahuber.com/2014/08/20/shadow-syllabus/),
+*[Internet Handout](https://docs.google.com/presentation/d/1FeuwEMzNTvKcjIS7q8S2u46Kz7hVRSf5srWtYwg4Tb4/pub?start=false&loop=false&delayms=3000&slide=id.p),
+*[Basic HTML tutorial](http://www.w3schools.com/html/html_intro.asp)
+*[How to use make HTML with an editor](http://www.w3schools.com/html/html_editors.asp)
+
 ####HTML & CSS
 1. **Fri 1.2.15:** (Prof Culkin). Syllabus, Overview of how the Internet works, Basic HTML Syntax + First HTML document, Text Editors, Naming conventions for the web.
 2. 
