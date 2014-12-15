@@ -46,3 +46,18 @@ The class will be structured as follows: <br>
 4. Students are expected to complete **all** assignments **ontime**, late work will not be accepted. 
 5. Students are expected to be proactive. I.e. asking questions, raising hands when something doesn't work, following up with missed class work, letting the professor know if they are struggling with the material. 
 
+##Outline of Topics covered:
+<ul>
+	<li>Multimedia and the Internet: client/server protocols, http, ftp</li>
+	<li>Creating HTML documents with a text editor</li>
+	<li>Formatting text in Multimedia with CSS</li>
+	<li>Graphical editors for the web: Dreamweaver </li>
+	<li>2D Graphics for Multimedia: RGB color, Photoshop</li>
+	<li>Project development for Multimedia: project descriptions, wire frames and site maps</li>
+	<li>Animation in Multimedia: Adobe After Effects , vector graphics</li>
+	<li>Sound for Multimedia: recording, editing in Sound Forge or Audacity</li>
+	<li>Video for Multimedia</li>
+	<li>Intellectual property rights, copyright laws</li>
+	<li>Project Management </li>
+</ul>
+
