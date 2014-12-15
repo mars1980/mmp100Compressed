@@ -49,6 +49,13 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 4. Students are expected to complete **all** assignments **ontime**, late work will not be accepted. 
 5. Students are expected to be proactive. I.e. asking questions, raising hands when something doesn't work, following up with missed class work, letting the professor know if they are struggling with the material. 
 
+<p>Student's work will be graded by the following criteria </p>
+* Assignment 1 (weekly progress, quality of syntax, correct links) - 30%
+* Assignment 2 (weekly progress, mastery of animation principles, compression techniques, and Adobe software) - 20%
+* Assignment 3 (Quality of Syntax, User Experience, Project Management) - 30%
+* Daily Exercises (completion, level of fun) - 10%
+* Teacher Evaluation (tardiness, class participation, weekly progress, effort put into the work) - 10%
+
 ##Outline of Topics covered:
 <ul>
 	<li>Multimedia and the Internet: client/server protocols, http, ftp</li>
