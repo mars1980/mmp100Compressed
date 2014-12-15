@@ -61,7 +61,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 	<li>Multimedia and the Internet: client/server protocols, http, ftp</li>
 	<li>Creating HTML documents with a text editor</li>
 	<li>Formatting text in Multimedia with CSS</li>
-	<li>Graphical editors for the web: Dreamweaver </li>
+	<li>Text editors for the web: Sublime Text, Komodo, Text Wrangler </li>
 	<li>2D Graphics for Multimedia: RGB color, Photoshop</li>
 	<li>Project development for Multimedia: project descriptions, wire frames and site maps</li>
 	<li>Animation in Multimedia: Adobe After Effects , vector graphics</li>
