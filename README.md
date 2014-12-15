@@ -61,7 +61,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 	<li>Project Management </li>
 </ul>
 ##Course Schedule
-**Subject to change, check back frequently**
+"**Subject to change, check back frequently**"
 ###Week 1 <em>(Fri Jan 4th - Fri Jan 9th)</em>
 ####HTML & CSS
 
