@@ -33,6 +33,8 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 7. Students will be able to create a Project Proposal that includes a written project description that identifies audience and goals, wireframes and a site map.
 
 ##Measurement of Learning Outcomes:
+###Assignments are progressive and build one on top of the other. If students fall behind on assignments during class workshop time, they are expected to spend time outside of class catching up to the pace of the class. If students are struggling to maintain pace, overwhelmed, or are confused about how to approach a problem, students are expected to notify professor to set up Office Hours
+
 1. Assignment 1:  Finished homepage showcasing their work throughout the class
 2. Assignment 2:  Simple website with embedded animation created by the student using Photoshop, Illustrator, and After Effects
 3. Assignment 3: Final 4 page website based on student's interest
@@ -73,7 +75,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 * [How to use  HTML with an editor](http://www.w3schools.com/html/html_editors.asp)
 
 ######Assignment for the Week:
-** Assignment 1 ** Create a homepage for yourself. Include 1 paragraph of text about who you are and what you like to do. Include either a selfie or a photo of something that represents some aspect about yourself, include links to your favorite sites or social media, Style your page by changing the padding, margins, background colors, and font. 
+**Assignment 1** Create a homepage for yourself. Include 1 paragraph of text about who you are and what you like to do. Include either a selfie or a photo of something that represents some aspect about yourself, include links to your favorite sites or social media, Style your page by changing the padding, margins, background colors, and font. 
 ####HTML & CSS
 1. **Fri 1.2.15:** (Prof Culkin). Syllabus, Overview of how the Internet works, Basic HTML Syntax + First HTML document, Text Editors, Naming conventions for the web. **Start assignment 1 **
 2. **Mon 1.5.15** (Prof Moore). HTML Syntax (structural/semantic), lists, nesting, attributes, Inline vs. Block elements, FTP
