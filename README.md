@@ -31,6 +31,9 @@ The class will be structured as follows: <br>
 6. Students will be able to incorporate media into a project that enhances the overall project
 7. Students will be able to create a Project Proposal that includes a written project description that identifies audience and goals, wireframes and a site map.
 
+#Measurement of Learning Outcomes 
+
+
 ---
 #Course Expections + Grading Rhubric
 <p>follow these steps, and we will all be OK</p>
