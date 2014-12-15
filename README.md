@@ -30,6 +30,7 @@ The class will be structured as follows: <br>
 5. Students will be able to identify standards for using media that meet copyright law.
 6. Students will be able to incorporate media into a project that enhances the overall project
 7. Students will be able to create a Project Proposal that includes a written project description that identifies audience and goals, wireframes and a site map.
+<br>
 #Measurement of Learning Outcomes
 1. Each Student will have a finished homepage to represent their work in the class 
 2. Each Student will create a short animation that they are able to embed into a website
