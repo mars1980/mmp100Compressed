@@ -9,7 +9,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 <li>10:40am-11am (break)</li>
 <li>11am-12:40pm (class workshop / in class assignments)</li>
 </ul>
-<br><br>
+<br>
 <em>Credits</em>: 3 <br>
 <em>Basic Skills:</em> ENG 088 or ESL 062, ACR 094, MAT 011; <br>
 <em>Prerequisites / Co-requisites:</em> none
@@ -60,6 +60,8 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 	<li>Intellectual property rights, copyright laws</li>
 	<li>Project Management </li>
 </ul>
+---
+---
 ##Course Schedule
 <em>Subject to change, check back frequently</em>
 ###Week 1 
