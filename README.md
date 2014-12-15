@@ -3,7 +3,7 @@
 ---
 ## Course Description
 <p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications. <br>
-The class will be structured as follows: <br>
+This class meetings Monday - Friday 9am - 12:40pm and will be structured as follows: <br>
 <ul>
 <li>9am - 10:40am (lecture/announcements/demo)</li>
 <li>10:40am-11am (break)</li>
@@ -60,4 +60,8 @@ The class will be structured as follows: <br>
 	<li>Intellectual property rights, copyright laws</li>
 	<li>Project Management </li>
 </ul>
+##Course Schedule
+**Subject to change, check back frequently**
+###Week 1 <em>(Fri Jan 4th - Fri Jan 9th)</em>
+####HTML & CSS
 
