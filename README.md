@@ -5,7 +5,10 @@
 <br><br>
 Credits: 3 <br>
 Basic Skills: ENG 088 or ESL 062, ACR 094, MAT 011; <br>
-Prerequisites / Co-requisites: none</p>
+Prerequisites / Co-requisites: none
+<br>
+Professor: Crys Moore - crysmoore@nyu.edu
+</p>
 ---
 # Course Materials:
 **required textbook**<br>
