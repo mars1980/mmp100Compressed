@@ -33,7 +33,9 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 7. Students will be able to create a Project Proposal that includes a written project description that identifies audience and goals, wireframes and a site map.
 
 ##Measurement of Learning Outcomes:
-######Assignments are progressive and build one on top of the other. If students fall behind on assignments during class workshop time, they are expected to spend time outside of class catching up to the pace of the class. If students are struggling to maintain pace, overwhelmed, or are confused about how to approach a problem, students are expected to notify professor to set up Office Hours
+######Assignments are progressive and build one on top of the other. 
+<p>Professor will grade class work based upon class participation and daily progress.   </p>
+<p>If students fall behind on assignments during class workshop time, they are expected to spend time outside of class catching up to the pace of the class. If students are struggling to maintain pace, overwhelmed, or are confused about how to approach a problem, students are expected to notify professor to set up Office Hours. </p>
 
 1. Assignment 1:  Finished homepage showcasing their work throughout the class
 2. Assignment 2:  Simple website with embedded animation created by the student using Photoshop, Illustrator, and After Effects
