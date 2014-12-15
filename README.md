@@ -1,4 +1,14 @@
-mmp100Compressed
-================
+# MMP 100 - Winter 2015
+---
+## Course Description
+<p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications.
+<br><br>
+Credits: 3 <br>
+Basic Skills: ENG 088 or ESL 062, ACR 094, MAT 011; <br>
+Prerequisites / Co-requisites: none</p>
+---
+# Course Materials:
+**required textbook**<br>
+<p>HTML&CSS Design and Build Websites by Jon Duckett published by John Wiley & Sons Inc. (ISBN-13: 978-1-118-00818-8)</p>
 
-Winter 2015 edition of MMP 100. 
+
