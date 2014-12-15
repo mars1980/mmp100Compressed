@@ -5,8 +5,8 @@
 The class will be structured as follows: <br>
 <ul>
 <li>9am - 10:40am (lecture/announcements/demo)</li>
-<li>+10:40am-11am (break)</li>
-<li>+11am-12:40pm (class workshop / in class assignments)</li>
+<li>10:40am-11am (break)</li>
+<li>11am-12:40pm (class workshop / in class assignments)</li>
 </ul>
 <br><br>
 <em>Credits</em>: 3 <br>
@@ -34,3 +34,12 @@ The class will be structured as follows: <br>
 1. Each Student will have a finished homepage to represent their work in the class 
 2. Each Student will create a short animation that they are able to embed into a website
 3. Each Student will have a 4 page website on a topic of their choice
+---
+#Course Expections + Grading Rhubric
+<p>follow these steps, and we will all be OK</p>
+1. Students are expected to come to class on time. Tardiness will not be tolerated. Important information regarding homework, quiz dates, etc. will be given out at the beginning of class and may not be repeated. 
+2. Students are expected to ask questions and participate in class lectures. **No social media or phone use in class**
+3. Students are expected to work during class workshop time. 
+4. Students are expected to complete **all** assignments **ontime**, late work will not be accepted. 
+5. Students are expected to be proactive. I.e. asking questions, raising hands when something doesn't work, following up with missed class work, letting the professor know if they are struggling with the material. 
+
