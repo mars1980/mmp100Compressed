@@ -62,6 +62,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 </ul>
 ##Course Schedule
 <em>Subject to change, check back frequently</em>
-###Week 1 ######(Fri Jan 4th - Fri Jan 9th)
+###Week 1 
+######(Fri Jan 4th - Fri Jan 9th)
 ####HTML & CSS
 
