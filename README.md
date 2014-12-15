@@ -22,7 +22,7 @@ The class will be structured as follows: <br>
 
 **Media Storage:**<br>
 <p>Students are expected to work on assignments in class as well as outside class hours. Students are required to keep a flash drive containing all projects and are expected to bring the drive to every class. Students are expected to back up flash drives on personal computer. Lost or broken flash drives will not excuse late or absent work.</p>
-###Learning Outcomes
+##Learning Outcomes
 1. Students will be able to hand code HTML markup for a web page that includes text, hyperlinks and images.
 2. Students will be able to create a multimedia website and upload it to the server.
 3. Students will be able to use Adobe After Effects to create animations.
@@ -31,11 +31,11 @@ The class will be structured as follows: <br>
 6. Students will be able to incorporate media into a project that enhances the overall project
 7. Students will be able to create a Project Proposal that includes a written project description that identifies audience and goals, wireframes and a site map.
 
-###Measurement of Learning Outcomes 
+##Measurement of Learning Outcomes 
 
 
 ---
-###Course Expections + Grading Rhubric
+##Course Expections + Grading Rhubric
 <p>follow these steps, and we will all be OK</p>
 1. Students are expected to come to class on time. Tardiness will not be tolerated. Important information regarding homework, quiz dates, etc. will be given out at the beginning of class and may not be repeated. 
 2. Students are expected to ask questions and participate in class lectures. **No social media or phone use in class**
