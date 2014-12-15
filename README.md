@@ -71,7 +71,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 * [Internet Handout](https://docs.google.com/presentation/d/1FeuwEMzNTvKcjIS7q8S2u46Kz7hVRSf5srWtYwg4Tb4/pub?start=false&loop=false&delayms=3000&slide=id.p),
 * [Basic HTML tutorial](http://www.w3schools.com/html/html_intro.asp)
 * [How to use  HTML with an editor](http://www.w3schools.com/html/html_editors.asp)
-* 
+
 ######Assignment for the Week:
 ** Assignment 1 ** Create a homepage for yourself. Include 1 paragraph of text about who you are and what you like to do. Include either a selfie or a photo of something that represents some aspect about yourself, include links to your favorite sites or social media, Style your page by changing the padding, margins, background colors, and font. 
 ####HTML & CSS
