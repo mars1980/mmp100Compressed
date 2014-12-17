@@ -108,12 +108,12 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 6. **Fri 1.9.15** Review: HTML elements, CSS Rules, syntax, inline vs Block,  
 
 ###Week 2 
-####HTML & CSS 
+#### COLOR, ANIMATION, SOUND, & VIDEO
 #####(Fri Jan 12th - Fri Jan 17th)
 ######Daily Breakdown:
 
 
 ###Week 4 
-####HTML & CSS 
+####INTELLECTUAL PROPERTY, PROJECT PLANNING, FINAL PROJECTS 
 #####(Fri Jan 19th - Fri Jan 23RD)
 ######Daily Breakdown: TBD
