@@ -94,6 +94,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
     1. Read chapters 3 & 4 of HTML & CSS: Design and Build Websites
     2. [Read over these HTML tags](http://www.w3schools.com/tags/default.asp)
     3. [Read this handout on Filezilla](https://docs.google.com/presentation/d/1105LULmCexRM0tQYu18M56jxG0KZfXFU13bCbcuDYYw/pub?start=false&loop=false&delayms=3000&slide=id.g11a88a6c7_00)
+  2. **In class exercise** Create a recipe per instructor's instructions
 3. **Tues 1.6.15** Site Structure, HTML 5 layout,  Relative URLs, Inline vs. Block, Inline CSS, Divs vs Span, 
   1. **Readings**
     1. Chapter 8 (extra markup) and Chapter 10 (CSS) in the Duckett book
