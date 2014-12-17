@@ -102,11 +102,19 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 
 3. **Tues 1.6.15** Relative URLs, Inline CSS,Basic Styling, Fonts 
   1. **Readings**
-    1. Chapter 8 (extra markup) and Chapter 10 (CSS) in the Duckett book
-    2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
+    1. Chapter 5 (images) & Chapter 10 (CSS) in the Duckett book
   2. **In class exercise** - TBD
+  
+
 4. **Wed 1.7.15** CSS Syntax,  Embedded Styles, Div's & Span, Inline vs. Block elements
+  1. **Readings**
+    1. Chapter 13 (Boxes) in the Duckett Book
+    2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
+
+
 5. **Thurs 1.8.15** External Stylesheets, CSS Box Model, CSS Position properties, styling Navigation and links
+  1. **Readings**
+    1. Chapter 17 (HTML 5 Layout) & Chapter 16 (Images) in the Duckett Book
 6. **Fri 1.9.15** Review: HTML elements, CSS Rules, syntax, inline vs Block,  
 
 ###Week 2 
@@ -119,6 +127,8 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
 4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
 5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content
+  1. **Readings**
+    1. Chapter 9 in the duckett book
 
 
 ###Week 3 
