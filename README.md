@@ -103,8 +103,17 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
     2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
   2. **In class exercise** - TBD
 
-
 4. **Wed 1.7.15** CSS Syntax,  Embedded Styles, Div's & Span, Inline vs. Block elements
 5. **Thurs 1.8.15** External Stylesheets, CSS Box Model, CSS Position properties, styling Navigation and links
 6. **Fri 1.9.15** Review: HTML elements, CSS Rules, syntax, inline vs Block,  
 
+###Week 2 
+####HTML & CSS 
+#####(Fri Jan 12th - Fri Jan 17th)
+######Daily Breakdown:
+
+
+###Week 4 
+####HTML & CSS 
+#####(Fri Jan 19th - Fri Jan 23RD)
+######Daily Breakdown: TBD
