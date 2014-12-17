@@ -1,6 +1,9 @@
 # MMP 100 - Winter 2015
 ####Introduction to Multi Media Production - Borough of Manhattan Community College
 ---
+
+[course schedule](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#course-schedule)
+
 ## Course Description
 <p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications. <br>
 This class meetings Monday - Friday 9am - 12:40pm and will be structured as follows: <br>
