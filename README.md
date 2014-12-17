@@ -2,7 +2,7 @@
 ####Introduction to Multi Media Production - Borough of Manhattan Community College
 ---
 
-[WeeK 1](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-1) |  [WeeK 2](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-2) | [WeeK 3](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-3)
+[Week 1](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-1) |  [Week 2](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-2) | [Week 3](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-3) | [Student Homepages](https://docs.google.com/spreadsheets/d/1Ry7tzjKa4pG6231HzS5D-LujnlqFI64V-hgV3wH2jsU/edit#gid=0) | [BMCC Winter 2015 Calendar](http://www.bmcc.cuny.edu/calendar/winter_2015.jsp)
 
 ## Course Description
 <p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications. <br>
