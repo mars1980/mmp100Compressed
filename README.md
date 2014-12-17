@@ -123,6 +123,9 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 ######Daily Breakdown:
 
 1. **Mon 1.12.15**  Color Spaces: RGB & CMYK, Photoshop, Bitmap graphics, Resolution basics
+  1. **Readings**
+    1. Chapter 11 & 12 in the Duckett Book
+  
 2. **Tues 1.13.15** Principles of Animation, Adobe After Effects
 3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
 4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
@@ -130,8 +133,14 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   1. **Readings**
     1. Chapter 9 in the duckett book
 
-
 ###Week 3 
 ####INTELLECTUAL PROPERTY, PROJECT PLANNING, FINAL PROJECTS 
 #####(Fri Jan 19th - Fri Jan 23RD)
 ######Daily Breakdown: TBD
+
+1. **Mon 1.19.15**  Intellectual Property, Final Project Proposals, Wireframes, User Experience
+2. **Tues 1.20.15** Principles of Design: Rule of Thirds, Whitespace, function, aesthetics
+3. **Wed 1.21.15** Final Project Workshop
+4. **Thurs 1.22.15** Final Project Workshop
+5. **Fri 1.23.16** Final Project Workshop
+
