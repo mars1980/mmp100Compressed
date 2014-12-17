@@ -83,7 +83,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 **Assignment 1** Create a homepage for yourself. Include 1 paragraph of text about who you are and what you like to do. Include either a selfie or a photo of something that represents some aspect about yourself, include links to your favorite sites or social media, Style your page by changing the padding, margins, background colors, and font. 
 ####HTML & CSS
 1. **Fri 1.2.15:** (Prof Culkin). Syllabus, Overview of how the Internet works, Basic HTML Syntax + First HTML document, Text Editors, Naming conventions for the web. **Start assignment 1 **<br>
-  1.######Readings:
+  1. ######Readings:
 * Chapters 1 & 2 of HTML & CSS: Design and Build Websites,
 * [Shadow Syllabus](http://sonyahuber.com/2014/08/20/shadow-syllabus/),
 * [Internet Handout](https://docs.google.com/presentation/d/1FeuwEMzNTvKcjIS7q8S2u46Kz7hVRSf5srWtYwg4Tb4/pub?start=false&loop=false&delayms=3000&slide=id.p),
