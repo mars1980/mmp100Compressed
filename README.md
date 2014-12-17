@@ -105,7 +105,6 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
     1. Chapter 8 (extra markup) and Chapter 10 (CSS) in the Duckett book
     2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
   2. **In class exercise** - TBD
-
 4. **Wed 1.7.15** CSS Syntax,  Embedded Styles, Div's & Span, Inline vs. Block elements
 5. **Thurs 1.8.15** External Stylesheets, CSS Box Model, CSS Position properties, styling Navigation and links
 6. **Fri 1.9.15** Review: HTML elements, CSS Rules, syntax, inline vs Block,  
@@ -114,6 +113,12 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 #### COLOR, ANIMATION, SOUND, & VIDEO
 #####(Fri Jan 12th - Fri Jan 17th)
 ######Daily Breakdown:
+
+1. **Mon 1.12.15**  Color Spaces: RGB & CMYK, Photoshop, Bitmap graphics, Resolution basics
+2. **Tues 1.13.15** Principles of Animation, Adobe After Effects
+3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
+4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
+5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content
 
 
 ###Week 3 
