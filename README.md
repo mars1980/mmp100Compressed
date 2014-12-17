@@ -99,7 +99,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   1. **Readings**
     1. Chapter 8 (extra markup) and Chapter 10 (CSS) in the Duckett book
     2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
-  2. **In class exercise** 
+  2. **In class exercise** - multi column layout
 4. **Wed 1.7.15**
 5. **Thurs 1.8.15**
 6. **Fri 1.9.15**
