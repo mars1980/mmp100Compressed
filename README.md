@@ -79,7 +79,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 #####(Fri Jan 4th - Fri Jan 9th)
 
 
-######Assignment for the Week:
+######Daily Breakdown:
 
 1. **Fri 1.2.15:** (Prof Culkin). Syllabus, Overview of how the Internet works, Basic HTML Syntax + First HTML document, Text Editors, Naming conventions for the web. **Start assignment 1 **
   1. **Readings:**
@@ -89,7 +89,6 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
     4. [Basic HTML tutorial](http://www.w3schools.com/html/html_intro.asp)
     5. [How to use  HTML with an editor](http://www.w3schools.com/html/html_editors.asp)
   2. **Assignment 1** Create a homepage for yourself. Include 1 paragraph of text about who you are and what you like to do. Include either a selfie or a photo of something that represents some aspect about yourself, include links to your favorite sites or social media, Style your page by changing the padding, margins, background colors, and font. 
-####HTML & CSS
 
 2. **Mon 1.5.15** (Prof Moore). HTML Syntax (structural/semantic), lists, nesting, attributes, Inline vs. Block elements, FTP
 
