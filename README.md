@@ -91,4 +91,10 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   2. **Assignment 1** Create a homepage for yourself. Include 1 paragraph of text about who you are and what you like to do. Include either a selfie or a photo of something that represents some aspect about yourself, include links to your favorite sites or social media, Style your page by changing the padding, margins, background colors, and font. 
 
 2. **Mon 1.5.15** (Prof Moore). HTML Syntax (structural/semantic), lists, nesting, attributes, Inline vs. Block elements, FTP
+  1. **Readings**
+    1. Read chapters 3 & 4 of HTML & CSS: Design and Build Websites
+    2. [Read over these HTML tags](http://www.w3schools.com/tags/default.asp)
+    3. [Read this handout on Filezilla](https://docs.google.com/presentation/d/1105LULmCexRM0tQYu18M56jxG0KZfXFU13bCbcuDYYw/pub?start=false&loop=false&delayms=3000&slide=id.g11a88a6c7_00)
+
+3. 
 
