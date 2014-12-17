@@ -2,7 +2,7 @@
 ####Introduction to Multi Media Production - Borough of Manhattan Community College
 ---
 
-[course schedule](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#course-schedule)
+[WK 1](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-1) |  [WK2](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-2) | [WK 3](https://github.com/mars1980/mmp100Compressed/blob/master/README.md#week-4)
 
 ## Course Description
 <p>This course introduces students to the fundamentals of multimedia production. In a hands-on class, students will learn the essentials of program design and authoring software in an integrated computer environment. Students will learn how to combine graphics, audio and text to create programs for industrial and educational applications. <br>
@@ -116,7 +116,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 ######Daily Breakdown:
 
 
-###Week 4 
+###Week 3 
 ####INTELLECTUAL PROPERTY, PROJECT PLANNING, FINAL PROJECTS 
 #####(Fri Jan 19th - Fri Jan 23RD)
 ######Daily Breakdown: TBD
