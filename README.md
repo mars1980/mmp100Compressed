@@ -76,9 +76,8 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 ##Course Schedule
 <em>Subject to change, check back frequently</em>
 ###Week 1 
+####HTML & CSS 
 #####(Fri Jan 4th - Fri Jan 9th)
-
-
 ######Daily Breakdown:
 
 1. **Fri 1.2.15:** (Prof Culkin). Syllabus, Overview of how the Internet works, Basic HTML Syntax + First HTML document, Text Editors, Naming conventions for the web. **Start assignment 1 **
@@ -95,7 +94,6 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
     1. Read chapters 3 & 4 of HTML & CSS: Design and Build Websites
     2. [Read over these HTML tags](http://www.w3schools.com/tags/default.asp)
     3. [Read this handout on Filezilla](https://docs.google.com/presentation/d/1105LULmCexRM0tQYu18M56jxG0KZfXFU13bCbcuDYYw/pub?start=false&loop=false&delayms=3000&slide=id.g11a88a6c7_00)
-
 3. **Tues 1.6.15**
 4. **Wed 1.7.15**
 5. **Thurs 1.8.15**
