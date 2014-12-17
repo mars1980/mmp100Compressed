@@ -136,7 +136,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 ###Week 3 
 ####INTELLECTUAL PROPERTY, PROJECT PLANNING, FINAL PROJECTS 
 #####(Fri Jan 19th - Fri Jan 23RD)
-######Daily Breakdown: TBD
+######Daily Breakdown: 
 
 1. **Mon 1.19.15**  Intellectual Property, Final Project Proposals, Wireframes, User Experience
 2. **Tues 1.20.15** Principles of Design: Rule of Thirds, Whitespace, function, aesthetics
