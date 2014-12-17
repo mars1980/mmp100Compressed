@@ -125,7 +125,6 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 1. **Mon 1.12.15**  Color Spaces: RGB & CMYK, Photoshop, Bitmap graphics, Resolution basics
   1. **Readings**
     1. Chapter 11 & 12 in the Duckett Book
-  
 2. **Tues 1.13.15** Principles of Animation, Adobe After Effects
 3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
 4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
