@@ -89,7 +89,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
     2. [Shadow Syllabus](http://sonyahuber.com/2014/08/20/shadow-syllabus/),
     3. [Internet Handout](https://docs.google.com/presentation/d/1FeuwEMzNTvKcjIS7q8S2u46Kz7hVRSf5srWtYwg4Tb4/pub?start=false&loop=false&delayms=3000&slide=id.p),
     4. [Basic HTML tutorial](http://www.w3schools.com/html/html_intro.asp)
-    5. [How to use  HTML with an editor](http://www.w3schools.com/html/html_editors.asp)
+    5. [How to use  HTML with an editor](http://www.w3schools.com/html/html_editors.asp) or [another tutorial on how to create a webpage](https://docs.google.com/presentation/d/1KAk_nrzf5DvT0LgtZ1SJlihub0os8uDh1BlmSGtIg08/pub?start=false&loop=false&delayms=3000)
   2. **Assignment 1** Create a homepage for yourself. Include 1 paragraph of text about who you are and what you like to do. Include either a selfie or a photo of something that represents some aspect about yourself, include links to your favorite sites or social media, Style your page by changing the padding, margins, background colors, and font. Bring completed web page to class tomorrow. [Example - code](https://github.com/mars1980/mmp100_class_code/blob/master/class%202%20code/homepage.html)   [Example - student work](http://mmp.bmcc.cuny.edu/LAXMI.MANOSCA/Assignments/Homepage/MyHomepage.html)   [Example - student work](http://mmp.bmcc.cuny.edu/fernanda.campolina/assignment3/homepage.html)
 
 2. **Mon 1.5.15** (Prof Moore). HTML Syntax (structural/semantic), lists, nesting, attributes, Inline vs. Block elements, FTP
