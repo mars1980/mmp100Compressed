@@ -103,6 +103,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 3. **Tues 1.6.15** Relative URLs, Inline CSS,Basic Styling, Fonts 
   1. **Readings**
     1. Chapter 5 (images) & Chapter 10 (CSS) in the Duckett book
+    2. [Link on Links](https://drive.google.com/file/d/0B1KPngPnCvXlb3dEU1BrcGpNaUU/edit)
   2. **In class exercise** - TBD
   
 
