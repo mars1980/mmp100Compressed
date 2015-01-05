@@ -104,13 +104,14 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   1. **Readings**
     1. Chapter 5 (images) & Chapter 10 (CSS) in the Duckett book
     2. [Link on Links](https://drive.google.com/file/d/0B1KPngPnCvXlb3dEU1BrcGpNaUU/edit)
-  2. **In class exercise** - TBD
+  2. **In class exercise** - Create a 1 page website of a haiku or short poem. Style the page using inline and embedded (or internal) CSS. Change the following: padding, margins, background, font, text color, etc. Once completed, add a link to this assignment to your homepage. 
   
-
 4. **Wed 1.7.15** CSS Syntax,  Embedded Styles, Div's & Span, Inline vs. Block elements
   1. **Readings**
-    1. Chapter 13 (Boxes) in the Duckett Book
-    2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
+  	1. Chapter 13 (Boxes) in the Duckett Book
+    	2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
+  2. **In class exercise** - Using external CSS, style your homepage
+
 
 
 5. **Thurs 1.8.15** External Stylesheets, CSS Box Model, CSS Position properties, styling Navigation and links
