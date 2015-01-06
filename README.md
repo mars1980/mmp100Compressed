@@ -108,7 +108,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 
   2. **In class exercise** - Create a 1 page website of a haiku or short poem. Style the page using inline and embedded (or internal) CSS. Change the following: padding, margins, background, font, text color, etc. Once completed, add a link to this assignment to your homepage. 
   
-4. **Wed 1.7.15** CSS Syntax,  Embedded Styles, Div's & Span, Inline vs. Block elements
+4. **Wed 1.7.15** CSS Syntax review, Selectors and their properties, CSS Box Model, Floating elements
   1. **Readings**
   	1. Chapter 13 (Boxes) in the Duckett Book
     	2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
