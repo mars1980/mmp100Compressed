@@ -113,11 +113,15 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   	1. Chapter 13 (Boxes) in the Duckett Book
     	2. [HTML Position Tutorial] (http://learnlayout.com/position.html)
     	3. [CSS & Navigation Bars](http://css-snippets.com/simple-horizontal-navigation/)
-  2. **In class exercise** - Using external CSS, style your homepage
+  2. **In class exercise** - Abstract Painting Assignment
 
 5. **Thurs 1.8.15** External Stylesheets, CSS Box Model, CSS Position properties, styling Navigation and links
   1. **Readings**
-    1. Chapter 17 (HTML 5 Layout) & Chapter 16 (Images) in the Duckett Book
+  	1. Chapter 17 (HTML 5 Layout) & Chapter 16 (Images) in the Duckett Book
+  	
+  2. **In class exercise** - Using what we've learned so far, style your homepage using an external stylesheet
+
+
 6. **Fri 1.9.15** Review: HTML elements, CSS Rules, syntax, inline vs Block,  
 
 ###Week 2 
