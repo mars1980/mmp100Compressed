@@ -110,6 +110,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   1. **Readings**
   	1. Chapter 13 (Boxes) in the Duckett Book
     	2. [HTML Layout Tutorial] (http://www.w3schools.com/html/html_layout.asp)
+    	3. [Top 30 essential CSS selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
   2. **In class exercise** - Using external CSS, style your homepage
 
 
