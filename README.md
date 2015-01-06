@@ -105,6 +105,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
     1. Chapter 5 (images) & Chapter 10 (CSS) in the Duckett book
     2. [Link on Links](https://drive.google.com/file/d/0B1KPngPnCvXlb3dEU1BrcGpNaUU/edit)
     3.[Top 30 essential CSS selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
   2. **In class exercise** - Create a 1 page website of a haiku or short poem. Style the page using inline and embedded (or internal) CSS. Change the following: padding, margins, background, font, text color, etc. Once completed, add a link to this assignment to your homepage. 
   
 4. **Wed 1.7.15** CSS Syntax,  Embedded Styles, Div's & Span, Inline vs. Block elements
