@@ -126,6 +126,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 	1. **Homework over the weekend** 
 		1. Finish Homepage Styling & Navigation bar
 		2. Try adding position properties (static, absolute, etc.) to your abstract painting
+		3. **Read this and think about what 'mark up' means** [Graffitti Markup Language](http://www.graffitimarkuplanguage.com/g-m-l-spec/)
 
 ###Week 2 
 #### COLOR, ANIMATION, SOUND, & VIDEO
