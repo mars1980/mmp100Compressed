@@ -122,7 +122,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   2. **In class exercise** - Style your homepage using an external stylesheet, add a navigation bar according to [this](http://css-snippets.com/simple-horizontal-navigation/) tutorial
 
 
-6. **Fri 1.9.15** Review: HTML elements, CSS Rules, syntax, inline vs Block,  
+6. **Fri 1.9.15** Google Fonts, Review: HTML elements, CSS Rules, syntax, inline vs Block,  
 
 ###Week 2 
 #### COLOR, ANIMATION, SOUND, & VIDEO
