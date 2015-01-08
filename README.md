@@ -145,6 +145,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content
   1. **Readings**
     1. Chapter 9 in the duckett book
+ 
   2.**Assignments** 
      1. Post 2 examples of websites with GOOD web design to your homepage
 
