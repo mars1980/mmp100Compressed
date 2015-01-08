@@ -118,6 +118,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 5. **Thurs 1.8.15** External Stylesheets, CSS Box Model, CSS Position properties, styling Navigation and links
   1. **Readings**
   	1. Chapter 17 (HTML 5 Layout) & Chapter 16 (Images) in the Duckett Book
+  	2. [This link on bad webdesign](http://webmarketingtoday.com/articles/learning-from-bad-web-design/)
   	
   2. **In class exercise** - Style your homepage using an external stylesheet, add a navigation bar according to [this](http://css-snippets.com/simple-horizontal-navigation/) tutorial
 
