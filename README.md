@@ -119,6 +119,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   1. **Readings**
   	1. Chapter 17 (HTML 5 Layout) & Chapter 16 (Images) in the Duckett Book
   	2. [This link on bad webdesign](http://webmarketingtoday.com/articles/learning-from-bad-web-design/)
+  	3. [This link on good webdesign](http://www.smashingmagazine.com/2008/01/31/10-principles-of-effective-web-design/)
   	3. [This link on fonts](http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326)
   	
   2. **In class exercise** - Style your homepage using an external stylesheet, add a navigation bar according to [this](http://css-snippets.com/simple-horizontal-navigation/) tutorial
@@ -144,6 +145,10 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content
   1. **Readings**
     1. Chapter 9 in the duckett book
+  2.**Assignments** 
+     1. Post 2 examples of websites with GOOD web design to your homepage
+
+    
 
 ###Week 3 
 ####INTELLECTUAL PROPERTY, PROJECT PLANNING, FINAL PROJECTS 
