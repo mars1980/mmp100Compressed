@@ -143,6 +143,10 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
   2. **In class exercise** Using photoshop, create a GIF and embedd it into a simple webpage. Link to your homepage
    
 2. **Tues 1.13.15** Principles of Animation, Adobe After Effects
+	1. **Readings**
+		1. [These tutorials on After Effects]{https://helpx.adobe.com/after-effects/tutorials.html)
+	2. **In class exercise**
+		1. Begin Assignment 2 (using photoshop, illustrator, After Effects to create a 10 sec animation)
 3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
 4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
 5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content
