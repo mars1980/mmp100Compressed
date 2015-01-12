@@ -144,7 +144,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
    
 2. **Tues 1.13.15** Principles of Animation, Adobe After Effects
 	1. **Readings**
-		1. [These tutorials on After Effects]{https://helpx.adobe.com/after-effects/tutorials.html)
+		1. [These tutorials on After Effects](https://helpx.adobe.com/after-effects/tutorials.html)
 	2. **In class exercise**
 		1. Begin Assignment 2 (using photoshop, illustrator, After Effects to create a 10 sec animation)
 3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
