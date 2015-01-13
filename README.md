@@ -155,6 +155,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
  
   2.**Assignments** 
      1. Post 2 examples of websites with GOOD web design to your homepage
+     2. Final Project Proposals 
 
     
 
@@ -163,9 +164,9 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 #####(Fri Jan 19th - Fri Jan 23RD)
 ######Daily Breakdown: 
 
-1. **Mon 1.19.15**  Intellectual Property, Final Project Proposals, Wireframes, User Experience
-2. **Tues 1.20.15** Principles of Design: Rule of Thirds, Whitespace, function, aesthetics
-3. **Wed 1.21.15** Final Project Workshop
+1. **Mon 1.19.15**  NO CLASS
+2. **Tues 1.20.15** Intellectual Property, Final Project Proposals, Wireframes, User Experience
+3. **Wed 1.21.15** Principles of Design: Rule of Thirds, Whitespace, function, aesthetics
 4. **Thurs 1.22.15** Final Project Workshop
 5. **Fri 1.23.16** Final Project Critiques
 
