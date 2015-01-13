@@ -149,7 +149,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 		1. Begin Assignment 2 (using photoshop, illustrator, After Effects to create a 10 sec animation)
 3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
 4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
-5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content
+5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content, Intellectual Property, Final Project Proposals, Wireframes, User Experience
   1. **Readings**
     1. Chapter 9 in the duckett book
  
@@ -165,8 +165,8 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 ######Daily Breakdown: 
 
 1. **Mon 1.19.15**  NO CLASS
-2. **Tues 1.20.15** Intellectual Property, Final Project Proposals, Wireframes, User Experience
-3. **Wed 1.21.15** Principles of Design: Rule of Thirds, Whitespace, function, aesthetics
+2. **Tues 1.20.15** Principles of Design: Rule of Thirds, Whitespace, function, aesthetics
+3. **Wed 1.21.15** Final Project Workshop
 4. **Thurs 1.22.15** Final Project Workshop
 5. **Fri 1.23.16** Final Project Critiques
 
