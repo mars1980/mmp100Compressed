@@ -148,6 +148,9 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 	2. **In class exercise**
 		1. Begin Assignment 2 (using photoshop, illustrator, After Effects to create a 10 sec animation)
 3. **Wed 1.14.15** After Effects cont., Adobe Illustrator, Vector Graphics
+	1. **Readings**
+		1. [advanced tutorials for illustrator](http://www.digitalartsonline.co.uk/features/illustration/25-best-illustrator-tutorials/)
+		2. [Basic tutorials for illustrator](http://www.creativebloq.com/digital-art/illustrator-tutorials-1232697)
 4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
 5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content, Intellectual Property, Final Project Proposals, Wireframes, User Experience
   1. **Readings**
