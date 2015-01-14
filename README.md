@@ -152,9 +152,17 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 		1. [advanced tutorials for illustrator](http://www.digitalartsonline.co.uk/features/illustration/25-best-illustrator-tutorials/)
 		2. [Basic tutorials for illustrator](http://www.creativebloq.com/digital-art/illustrator-tutorials-1232697)
 4. **Thurs 1.15.15** Sound: Digitizing sound, properties of sound, Audacity, Sound and After Effects
+	1. **Readings** 
+		1. [How Sound waves work](http://www.mediacollege.com/audio/01/sound-waves.html)
+		2. [Sound Wave Properties](http://www.mediacollege.com/audio/01/wave-properties.html)
+		3. [How Sound Waves Interact with Each Other] (http://www.mediacollege.com/audio/01/wave-interaction.html)
+
 5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content, Intellectual Property, Final Project Proposals, Wireframes, User Experience
   1. **Readings**
     1. Chapter 9 in the duckett book
+    2. [Infographic on Website Planning](http://designmodo.com/web-design-project/)
+    3. [Tutorial on Wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
+    4. [What is User Experience?](http://www.smashingmagazine.com/2010/10/05/what-is-user-experience-design-overview-tools-and-resources/)
  
   2.**Assignments** 
      1. Post 2 examples of websites with GOOD web design to your homepage
