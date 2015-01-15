@@ -166,7 +166,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
  
   2.**Assignments** 
      1. Post 2 examples of websites with GOOD web design to your homepage
-     2. **Final Project Proposals**  Create a wireframe for each page for your website as well as a site map showing how the pages link together. Fill out the Creative Brief as well as the Style guide located at the following link: [link to final project proposal document](https://github.com/mars1980/mmp100_class_code/blob/master/ProjectPlanning/brief.html). **Edit the document by copying + pasting the code into a text editor, save to your drive, link to from your homepage. **due by tuesday**
+     2. **Final Project Proposals**  Create a wireframe for each page for your website as well as a site map showing how the pages link together. Fill out the Creative Brief as well as the Style guide located at the following link: [link to final project proposal document](https://github.com/mars1980/mmp100_class_code/blob/master/ProjectPlanning/brief.html). Edit the document by copying + pasting the code into a text editor, save to your drive, link to from your homepage. **due by tuesday**
 
     
 
