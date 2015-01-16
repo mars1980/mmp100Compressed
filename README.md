@@ -157,7 +157,7 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 		2. [Sound Wave Properties](http://www.mediacollege.com/audio/01/wave-properties.html)
 		3. [How Sound Waves Interact with Each Other] (http://www.mediacollege.com/audio/01/wave-interaction.html)
 
-5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content, Intellectual Property, Final Project Proposals, Wireframes, User Experience
+5. **Fri 1.16.16** Video Compression, Adobe Media Encoder, Embedded Video Content, Intellectual Property, Final Project Proposals, Wireframes, User Experience, [link to embed video code examples](https://github.com/mars1980/mmp100_class_code/tree/master/class%2021%20code)
   1. **Readings**
     1. Chapter 9 in the duckett book
     2. [Infographic on Website Planning](http://designmodo.com/web-design-project/)
