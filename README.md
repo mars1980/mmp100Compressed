@@ -172,6 +172,19 @@ This class meetings Monday - Friday 9am - 12:40pm and will be structured as foll
 ###Week 3 
 ####INTELLECTUAL PROPERTY, PROJECT PLANNING, FINAL PROJECTS 
 #####(Fri Jan 19th - Fri Jan 23RD)
+#####Final Projects:
+<ul>
+<li>4 page website</li>
+<li>Unordered list for navigation</li>
+<li>4 page website</li>
+<li>original embedded media content</li>
+<li>CSS Box Layout</li>
+<li>Cohesive Design Structure</li>
+<li>Cohesive concept</li>
+<li>must not violate IP laws</li>
+<li>must have completed project planning documents (creative brief, wireframe, style guide, site map)</li>
+</ul>
+
 ######Daily Breakdown: 
 
 1. **Mon 1.19.15**  NO CLASS
